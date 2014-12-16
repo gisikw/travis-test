@@ -1,0 +1,23 @@
+{
+  "name": "travis-test",
+  "version": "0.0.0",
+  "description": "This is a dummy repo, intended to examine how to use Travis-Ci's Node features in tandem with a Ruby gem.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~2.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gisikw/travis-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gisikw/travis-test/issues"
+  },
+  "homepage": "https://github.com/gisikw/travis-test"
+}
